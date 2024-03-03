@@ -8,6 +8,6 @@ Kit Flutter, store: firebase
 
 
 
-<video width="320" height="240" controls>
-  <source src="/docs/record_short.webm" type="video/mp4">
+<video width="320" height="400" controls>
+  <source src="/docs/record_short.webm" type="video/webm">
 </video>
