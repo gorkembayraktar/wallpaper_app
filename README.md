@@ -5,5 +5,6 @@ Kit Flutter, store: firebase
 ## Uygulama Çıktısı
 
 ![Uygulama Görselleri!](/docs/screens.png "Uygulama Görselleri")
-![Uygulama Görselleri!](/docs/record_short.webm "Uygulama Görselleri")
 
+
+![](record_short.webm)
