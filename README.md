@@ -7,4 +7,7 @@ Kit Flutter, store: firebase
 ![Uygulama Görselleri!](/docs/screens.png "Uygulama Görselleri")
 
 
-![](record_short.webm)
+
+<video width="320" height="240" controls>
+  <source src="/docs/record_short.webm" type="video/mp4">
+</video>
