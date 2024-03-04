@@ -33,7 +33,7 @@ class _SearchedPageState extends State<SearchedPage> {
                 .where(
                   Filter.or(
                     Filter("tags", arrayContains: widget.genre.toLowerCase()),
-                    Filter("categories", arrayContains: 'collection/${widget.genre.toLowerCase()}')
+                    Filter("categories", arrayContains: 'categories/${widget.genre.toLowerCase()}')
                   )
                 ).snapshots(),
             builder:
